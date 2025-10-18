@@ -70,6 +70,4 @@ This will run it every night at 3 AM.
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** — you can freely modify and distribute it.
